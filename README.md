@@ -1,6 +1,6 @@
 # Earned Electoral Allocation
 
-What if the American Electoral College was allocated by a state's voter turnout rather than simply population? I wrote about which states would benefit and suffer from such an arrangement, and how it would have impacted our presidential elections.
+What if the American Electoral College was allocated by a state's voter turnout rather than simply population? [I wrote about](https://medium.com/@hodgesmr/earned-electoral-allocation-a9e806fadf0e) which states would benefit and suffer from such an arrangement, and how it would have impacted our presidential elections.
 
 The `data/` directory contains data from the 2000, 2004, 2008, and 2012 presidential elections.
 
